@@ -1,2 +1,2 @@
 # ReactJS-book-Shelf-Full
- Project_fullStack_bookShelf
+FullStack project made during the ReactJs FullStack course
